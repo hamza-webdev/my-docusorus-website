@@ -9,7 +9,7 @@ const config = {
   title: 'My dinosaurus dock Site',
   tagline: 'Dinosaurs are cool',
   url: 'https://github.com',
-  baseUrl: '/my-docusorus-website',
+  baseUrl: '/my-docusorus-website/',
   onBrokenLinks: 'throw',
   onBrokenMarkdownLinks: 'warn',
   favicon: 'img/favicon.ico',
