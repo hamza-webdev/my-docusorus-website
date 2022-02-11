@@ -15,7 +15,7 @@ const config = {
   favicon: 'img/favicon.ico',
   organizationName: 'hamza-webdev', // Usually your GitHub org/user name.
   projectName: 'my-docusorus-website', // Usually your repo name.
-  deploymentBranch: "gh-pages",
+  //deploymentBranch: "gh-pages",
 
   presets: [
     [
@@ -25,13 +25,13 @@ const config = {
         docs: {
           sidebarPath: require.resolve('./sidebars.js'),
           // Please change this to your repo.
-          editUrl: 'https://github.com/facebook/docusaurus/tree/main/packages/create-docusaurus/templates/shared/',
+          editUrl: 'https://hamza-webdev.github.io/my-docusorus-website/',
         },
         blog: {
           showReadingTime: true,
           // Please change this to your repo.
           editUrl:
-            'https://github.com/facebook/docusaurus/tree/main/packages/create-docusaurus/templates/shared/',
+            'hhttps://hamza-webdev.github.io/my-docusorus-website/',
         },
         theme: {
           customCss: require.resolve('./src/css/custom.css'),
