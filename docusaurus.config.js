@@ -25,13 +25,13 @@ const config = {
         docs: {
           sidebarPath: require.resolve('./sidebars.js'),
           // Please change this to your repo.
-          editUrl: 'https://hamza-webdev.github.io/my-docusorus-website/',
+          editUrl: 'https://github.com/hamza-webdev/my-docusorus-website',
         },
         blog: {
           showReadingTime: true,
           // Please change this to your repo.
           editUrl:
-            'hhttps://hamza-webdev.github.io/my-docusorus-website/',
+            'https://github.com/hamza-webdev/my-docusorus-website',
         },
         theme: {
           customCss: require.resolve('./src/css/custom.css'),
